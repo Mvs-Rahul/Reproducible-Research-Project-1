@@ -178,16 +178,16 @@ head(activityDT, 10)
 ```
 
     ##     steps       date interval Day of Week weekday or weekend
-    ##  1:    NA 2022-10-01        0      Tuesday            weekday
-    ##  2:    NA 2022-10-01        5      Tuesday            weekday
-    ##  3:    NA 2022-10-01       10      Tuesday            weekday
-    ##  4:    NA 2022-10-01       15      Tuesday            weekday
-    ##  5:    NA 2022-10-01       20      Tuesday            weekday
-    ##  6:    NA 2022-10-01       25      Tuesday            weekday
-    ##  7:    NA 2022-10-01       30      Tuesday            weekday
-    ##  8:    NA 2022-10-01       35      Tuesday            weekday
-    ##  9:    NA 2022-10-01       40      Tuesday            weekday
-    ## 10:    NA 2022-10-01       45      Tuesday            weekday
+    ##  1:    NA 2022-10-01        0      Saturday           weekday
+    ##  2:    NA 2022-10-01        5      Saturday           weekday
+    ##  3:    NA 2022-10-01       10      Saturday           weekday
+    ##  4:    NA 2022-10-01       15      Saturday           weekday
+    ##  5:    NA 2022-10-01       20      Saturday           weekday
+    ##  6:    NA 2022-10-01       25      Saturday           weekday
+    ##  7:    NA 2022-10-01       30      Saturday           weekday
+    ##  8:    NA 2022-10-01       35      Saturday           weekday
+    ##  9:    NA 2022-10-01       40      Saturday           weekday
+    ## 10:    NA 2022-10-01       45      Saturday           weekday
 
 1.  Make a panel plot containing a time series plot (i.e. 𝚝𝚢𝚙𝚎 = "𝚕") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). See the README file in the GitHub repository to see an example of what this plot should look like using simulated data.
 
